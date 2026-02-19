@@ -6,7 +6,7 @@
 
 -- Approach:
 -- Select name from the Customer table
--- Keep only those rows where referee_id != 2 and refree_id is null
+-- Keep only those rows where referee_id != 2 or refree_id is null
 
 SELECT name
 FROM Customer
