@@ -2,7 +2,7 @@
 SQL solutions of the LeetCode SQL-50 study plan.
 
 ## Progress Tracker
-**Problems Solved:** 4 / 50
+**Problems Solved:** 5 / 50
 
 ## Solved Problems
 > #### Select
@@ -10,3 +10,4 @@ SQL solutions of the LeetCode SQL-50 study plan.
 > - [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)
 > - [595. Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)
 > - [1148. Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50)
+> - [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50)
