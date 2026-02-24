@@ -2,7 +2,7 @@
 SQL solutions of the LeetCode SQL-50 study plan.
 
 ## Progress Tracker
-**Problems Solved:** 7 / 50
+**Problems Solved:** 8 / 50
 
 ## Solved Problems
 > #### Select
@@ -15,3 +15,4 @@ SQL solutions of the LeetCode SQL-50 study plan.
 > ### Basic Joins
 > - [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50)
 > - [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50)
+> - [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50)
