@@ -2,7 +2,7 @@
 SQL solutions of the LeetCode SQL-50 study plan.
 
 ## Progress Tracker
-**Problems Solved:** 8 / 50
+**Problems Solved:** 10 / 50
 
 ## Solved Problems
 > #### Select
@@ -17,3 +17,4 @@ SQL solutions of the LeetCode SQL-50 study plan.
 > - [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50)
 > - [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50)
 > - [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/?envType=study-plan-v2&envId=top-sql-50)
+> - [1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50)
