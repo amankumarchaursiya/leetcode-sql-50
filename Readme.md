@@ -2,7 +2,7 @@
 SQL solutions of the LeetCode SQL-50 study plan.
 
 ## Progress Tracker
-**Problems Solved:** 11 / 50
+**Problems Solved:** 12 / 50
 
 ## Solved Problems
 > #### Select
@@ -19,3 +19,4 @@ SQL solutions of the LeetCode SQL-50 study plan.
 > - [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/?envType=study-plan-v2&envId=top-sql-50)
 > - [1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50)
 > - [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50)
+> - [1280. Students and Examinations]()
